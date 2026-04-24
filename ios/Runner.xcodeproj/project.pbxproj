@@ -203,11 +203,11 @@
 				97C146EA1CF9000F007C117D /* Sources */,
 				97C146EB1CF9000F007C117D /* Frameworks */,
 				97C146EC1CF9000F007C117D /* Resources */,
+				64CC33749F43D6794906D5BE /* [CP] Embed Pods Frameworks */,
+				E00AF9CDB43A3AC90969702B /* [CP] Copy Pods Resources */,
 				E63F9CBC2D10709D00CD9E72 /* ShellScript */,
 				E612EC492D0F07AD0022720C /* Embed Foundation Extensions */,
 				9740EEB61CF901F6004384FC /* Run Script */,
-				64CC33749F43D6794906D5BE /* [CP] Embed Pods Frameworks */,
-				E00AF9CDB43A3AC90969702B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -248,7 +248,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 1620;
-				LastUpgradeCheck = 2640;
+				LastUpgradeCheck = 1510;
 				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					97C146ED1CF9000F007C117D = {
