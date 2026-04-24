@@ -78,7 +78,7 @@ dependencies:
   lrc: ^1.0.2
   metadata_god: ^1.1.0
   mime: ^2.0.0
-  open_file: ^3.5.10
+  open_filex: ^4.3.2
   package_info_plus: ^6.0.0
   palette_generator: ^0.3.3
   path: ^1.9.0

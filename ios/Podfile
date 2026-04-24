@@ -48,8 +48,8 @@ post_install do |installer|
       config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
       config.build_settings['CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER'] = 'NO'
       # Ensure plugins can find Flutter headers
-      config.build_settings['FRAMEWORK_SEARCH_PATHS'] ||= ['$(inherited)']
-      config.build_settings['FRAMEWORK_SEARCH_PATHS'] << '"$(PODS_ROOT)/../Flutter"'
+      config.build_settings['FRAMEWORK_SEARCH_PATHS'] = ['$(inherited)', '"$(PODS_ROOT)/../Flutter"']
+      config.build_settings['HEADER_SEARCH_PATHS'] = ['$(inherited)', '"$(PODS_ROOT)/../Flutter/Flutter.framework/Headers"']
     end
   end
 end

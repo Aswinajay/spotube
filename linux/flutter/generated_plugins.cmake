@@ -11,7 +11,6 @@ list(APPEND FLUTTER_PLUGIN_LIST
   gtk
   local_notifier
   media_kit_libs_linux
-  open_file_linux
   screen_retriever_linux
   sqlite3_flutter_libs
   tray_manager

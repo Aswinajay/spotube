@@ -12,7 +12,7 @@ import 'package:spotube/services/audio_player/audio_player.dart';
 import 'package:spotube/services/logger/logger.dart';
 import 'package:spotube/utils/platform.dart';
 import 'package:window_manager/window_manager.dart';
-import 'package:open_file/open_file.dart';
+import 'package:open_filex/open_filex.dart';
 
 typedef UserPreferences = PreferencesTableData;
 
@@ -112,7 +112,7 @@ class UserPreferencesNotifier extends Notifier<PreferencesTableData> {
     try {
       final filePath = await getMusicCacheDir();
 
-      await OpenFile.open(filePath);
+      await OpenFilex.open(filePath);
     } catch (e, stack) {
       AppLogger.reportError(e, stack);
     }
