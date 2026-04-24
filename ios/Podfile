@@ -43,9 +43,6 @@ target 'HomePlayerWidgetExtension' do
 end
 
 post_install do |installer|
-  # Disable module verification for pods with problematic headers
-  pods_disable_module = ['package_info_plus', 'integration_test']
-
   installer.pods_project.targets.each do |target|
     target.build_configurations.each do |config|
       config.build_settings['CLANG_ENABLE_MODULES'] = 'YES'
@@ -55,28 +52,22 @@ post_install do |installer|
       if config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'].to_f < 14.0
         config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
       end
-      
-      # Ensure plugins can find Flutter headers
-      config.build_settings['FRAMEWORK_SEARCH_PATHS'] = ['$(inherited)', '"$(PODS_ROOT)/../Flutter"']
-      config.build_settings['HEADER_SEARCH_PATHS'] = ['$(inherited)', '"$(PODS_ROOT)/../Flutter/Flutter.framework/Headers"']
       config.build_settings['CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER'] = 'NO'
 
       config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] ||= [
         '$(inherited)',
         'AUDIO_SESSION_MICROPHONE=0'
       ]
-
-      if pods_disable_module.include?(target.name)
-        config.build_settings['DEFINES_MODULE'] = 'NO'
-      end
     end
     flutter_additional_ios_build_settings(target)
   end
 
-  # Fix umbrella header double-quote issue for remaining pods
+  # Fix umbrella header double-quote issue for all affected pods
   pods_to_fix = {
     'open_file_ios'      => 'OpenFilePlugin.h',
-    'sqflite_darwin'     => 'SqfliteImportPublic.h'
+    'sqflite_darwin'     => 'SqfliteImportPublic.h',
+    'package_info_plus'  => 'FPPPackageInfoPlusPlugin.h',
+    'integration_test'   => 'IntegrationTestPlugin.h'
   }
 
   pods_to_fix.each do |pod_name, header_file|
