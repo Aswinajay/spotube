@@ -1,5 +1,5 @@
 # Uncomment this line to define a global platform for your project
-platform :ios, '13.0'
+platform :ios, '14.0'
 
 # Resolve FLUTTER_ROOT
 ENV['FLUTTER_ROOT'] ||= `flutter --version --machine`.match(/"flutterRoot":\s*"([^"]+)"/)[1] rescue nil
@@ -40,36 +40,42 @@ end
 post_install do |installer|
   installer.pods_project.targets.each do |target|
     target.build_configurations.each do |config|
-      config.build_settings['GCC_WARN_INHIBIT_ALL_WARNINGS'] = 'YES'
+      config.build_settings['CLANG_ENABLE_MODULES'] = 'YES'
       config.build_settings['SWIFT_SUPPRESS_WARNINGS'] = 'YES'
+      config.build_settings['GCC_WARN_INHIBIT_ALL_WARNINGS'] = 'YES'
       config.build_settings['WARNING_CFLAGS'] = '-w'
-    end
-    
-    flutter_additional_ios_build_settings(target)
-    
-    target.build_configurations.each do |config|
+      if config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'].to_f < 14.0
+        config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
+      end
+      
+      # Ensure plugins can find Flutter headers
+      config.build_settings['FRAMEWORK_SEARCH_PATHS'] = ['$(inherited)', '"$(PODS_ROOT)/../Flutter"']
+      config.build_settings['HEADER_SEARCH_PATHS'] = ['$(inherited)', '"$(PODS_ROOT)/../Flutter/Flutter.framework/Headers"']
+      config.build_settings['CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER'] = 'NO'
+
       config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] ||= [
         '$(inherited)',
         'AUDIO_SESSION_MICROPHONE=0'
       ]
-      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
-      config.build_settings['CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER'] = 'NO'
-      # Ensure plugins can find Flutter headers
-      config.build_settings['FRAMEWORK_SEARCH_PATHS'] = ['$(inherited)', '"$(PODS_ROOT)/../Flutter"']
-      config.build_settings['HEADER_SEARCH_PATHS'] = ['$(inherited)', '"$(PODS_ROOT)/../Flutter/Flutter.framework/Headers"']
     end
+    flutter_additional_ios_build_settings(target)
   end
 
-  # Generic fix for all pods with double-quoted umbrella headers
-  support_files = "#{installer.sandbox.root}/Target Support Files"
-  Dir.glob("#{support_files}/**/*-umbrella.h").each do |umbrella|
-    content = File.read(umbrella)
-    if content.match?(/".*\.h"/)
-      # The directory name is usually the pod name
-      pod_name = File.basename(File.dirname(umbrella))
-      fixed = content.gsub(/"([^"]+\.h)"/) { "<#{pod_name}/#{$1}>" }
+  # Fix umbrella header double-quote issue for affected pods
+  pods_to_fix = {
+    'open_file_ios'      => 'OpenFilePlugin.h',
+    'sqflite_darwin'     => 'SqfliteImportPublic.h',
+    'package_info_plus'  => 'FPPPackageInfoPlusPlugin.h',
+    'integration_test'   => 'IntegrationTestPlugin.h'
+  }
+
+  pods_to_fix.each do |pod_name, header_file|
+    umbrella = "#{installer.sandbox.root}/Target Support Files/#{pod_name}/#{pod_name}-umbrella.h"
+    if File.exist?(umbrella)
+      content = File.read(umbrella)
+      fixed = content.gsub("\"#{header_file}\"", "<#{pod_name}/#{header_file}>")
       File.write(umbrella, fixed)
-      puts "✅ Fixed umbrella header: #{pod_name}"
+      puts "✅ Fixed umbrella header for #{pod_name}"
     end
   end
 end

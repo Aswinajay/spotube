@@ -1,0 +1,1138 @@
+[  +20 ms] Unable to locate an Android SDK.
+[   +4 ms] executing: sysctl hw.optional.arm64
+[   +2 ms] Exit code 0 from: sysctl hw.optional.arm64
+[        ] hw.optional.arm64: 1
+[   +3 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +20 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +15 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +16 ms] Skipping pub get: version match.
+[  +68 ms] Found plugin integration_test at /Users/aswinajay/development/flutter/packages/integration_test/
+[  +24 ms] Found plugin window_manager at /Users/aswinajay/.pub-cache/hosted/pub.dev/window_manager-0.4.3/
+[   +1 ms] Found plugin screen_retriever at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever-0.2.0/
+[        ] Found plugin screen_retriever_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever_windows-0.2.0/
+[   +1 ms] Found plugin screen_retriever_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever_macos-0.2.0/
+[        ] Found plugin screen_retriever_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever_linux-0.2.0/
+[   +3 ms] Found plugin url_launcher at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher-6.3.2/
+[        ] Found plugin url_launcher_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4/
+[        ] Found plugin url_launcher_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_web-2.4.1/
+[        ] Found plugin url_launcher_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.3/
+[        ] Found plugin url_launcher_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+[        ] Found plugin url_launcher_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.4/
+[        ] Found plugin url_launcher_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.18/
+[        ] Found plugin tray_manager at /Users/aswinajay/.pub-cache/hosted/pub.dev/tray_manager-0.5.1/
+[   +4 ms] Found plugin sqlite3_flutter_libs at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.39/
+[        ] Found plugin smtc_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/smtc_windows-1.1.0/
+[   +2 ms] Found plugin shared_preferences at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences-2.5.3/
+[        ] Found plugin shared_preferences_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
+[        ] Found plugin path_provider_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+[        ] Found plugin shared_preferences_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3/
+[        ] Found plugin shared_preferences_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+[        ] Found plugin path_provider_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+[        ] Found plugin shared_preferences_foundation at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+[        ] Found plugin shared_preferences_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.12/
+[   +6 ms] Found plugin permission_handler at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler-11.4.0/
+[        ] Found plugin permission_handler_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.1/
+[        ] Found plugin permission_handler_html at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.3+5/
+[        ] Found plugin permission_handler_apple at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_apple-9.4.7/
+[        ] Found plugin permission_handler_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_android-12.1.0/
+[        ] Found plugin path_provider at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+[   +1 ms] Found plugin path_provider_foundation at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.2/
+[        ] Found plugin path_provider_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_android-2.2.18/
+[        ] Found plugin package_info_plus at /Users/aswinajay/.pub-cache/hosted/pub.dev/package_info_plus-6.0.0/
+[        ] Found plugin open_filex at /Users/aswinajay/.pub-cache/hosted/pub.dev/open_filex-4.7.0/
+[        ] Found plugin metadata_god at /Users/aswinajay/.pub-cache/hosted/pub.dev/metadata_god-1.1.0/
+[        ] Found plugin media_kit_libs_windows_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/windows/media_kit_libs_windows_audio/
+[        ] Found plugin media_kit_libs_macos_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/macos/media_kit_libs_macos_audio/
+[        ] Found plugin media_kit_libs_linux at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/linux/media_kit_libs_linux/
+[        ] Found plugin media_kit_libs_ios_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/ios/media_kit_libs_ios_audio/
+[        ] Found plugin media_kit_libs_android_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/android/media_kit_libs_android_audio/
+[   +1 ms] Found plugin local_notifier at /Users/aswinajay/.pub-cache/hosted/pub.dev/local_notifier-0.1.6/
+[        ] Found plugin image_picker at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker-1.2.0/
+[        ] Found plugin image_picker_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_windows-0.2.2/
+[        ] Found plugin file_selector_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_windows-0.9.3+4/
+[        ] Found plugin image_picker_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_macos-0.2.2/
+[        ] Found plugin file_selector_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.4+4/
+[        ] Found plugin image_picker_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_linux-0.2.2/
+[        ] Found plugin file_selector_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_linux-0.9.3+2/
+[        ] Found plugin image_picker_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.13/
+[        ] Found plugin image_picker_for_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_for_web-3.1.0/
+[        ] Found plugin image_picker_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_android-0.8.13+1/
+[        ] Found plugin flutter_plugin_android_lifecycle at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.30/
+[   +1 ms] Found plugin home_widget at /Users/aswinajay/.pub-cache/hosted/pub.dev/home_widget-0.7.0+1/
+[   +1 ms] Found plugin flutter_timezone at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_timezone-4.1.1/
+[        ] Found plugin flutter_inappwebview at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview-6.1.5/
+[        ] Found plugin flutter_inappwebview_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_windows-0.6.0/
+[        ] Found plugin flutter_inappwebview_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_web-1.1.2/
+[        ] Found plugin flutter_inappwebview_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_macos-1.1.2/
+[        ] Found plugin flutter_inappwebview_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_ios-1.1.2/
+[        ] Found plugin flutter_inappwebview_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_android-1.1.3/
+[        ] Found plugin fk_user_agent at /Users/aswinajay/.pub-cache/git/fk_user_agent-458046cd9a88924e5074d96ba45397219d53b230/
+[        ] Found plugin desktop_webview_window at /Users/aswinajay/.pub-cache/git/flutter-plugins-f261ff20e310d05713249b21c199a9fe17a3de6f/packages/desktop_webview_window/
+[   +1 ms] Found plugin flutter_sharing_intent at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_sharing_intent-1.1.1/
+[        ] Found plugin flutter_secure_storage at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage-9.2.4/
+[        ] Found plugin flutter_secure_storage_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage_windows-3.1.2/
+[        ] Found plugin flutter_secure_storage_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage_web-1.2.1/
+[        ] Found plugin flutter_secure_storage_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage_macos-3.1.3/
+[        ] Found plugin flutter_secure_storage_linux at /Users/aswinajay/.pub-cache/git/flutter_secure_storage-f076cbb65b075afd6e3b648122987a67306dc298/flutter_secure_storage_linux/
+[        ] Found plugin flutter_new_pipe_extractor at /Users/aswinajay/.pub-cache/git/flutter_new_pipe_extractor-ab3ff415114b7b43593e6ee718ad3d760af18350/
+[        ] Found plugin flutter_native_splash at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_native_splash-2.4.6/
+[   +1 ms] Found plugin flutter_displaymode at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_displaymode-0.6.0/
+[        ] Found plugin flutter_discord_rpc at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_discord_rpc-1.1.0/
+[        ] Found plugin sqflite at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqflite-2.4.2/
+[        ] Found plugin sqflite_darwin at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/
+[        ] Found plugin sqflite_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/
+[        ] Found plugin flutter_broadcasts at /Users/aswinajay/.pub-cache/git/flutter_broadcasts-63931dfe06733d4fb7452e9981e1f0b23414d97a/
+[        ] Found plugin file_selector at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector-1.0.3/
+[        ] Found plugin file_selector_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_web-0.9.4+2/
+[        ] Found plugin file_selector_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_ios-0.5.3+2/
+[        ] Found plugin file_selector_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_android-0.5.1+16/
+[        ] Found plugin file_picker at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_picker-11.0.2/
+[   +1 ms] Found plugin disable_battery_optimization at /Users/aswinajay/.pub-cache/git/Disable-Battery-Optimizations-aa77a61946849fff495091fc13dcc390948cc60b/
+[        ] Found plugin device_info_plus at /Users/aswinajay/.pub-cache/hosted/pub.dev/device_info_plus-11.3.0/
+[        ] Found plugin connectivity_plus at /Users/aswinajay/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.5/
+[   +1 ms] Found plugin bonsoir at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir-5.1.11/
+[        ] Found plugin bonsoir_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir_windows-5.1.5/
+[        ] Found plugin bonsoir_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir_linux-5.1.3/
+[        ] Found plugin bonsoir_darwin at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/
+[        ] Found plugin bonsoir_android at /Users/aswinajay/.pub-cache/git/Bonsoir-aa5604628ba41e3a7153769f4465a3d375488f2e/packages/bonsoir_android/
+[        ] Found plugin audio_session at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_session-0.1.25/
+[        ] Found plugin audio_service_mpris at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_service_mpris-0.2.0/
+[        ] Found plugin audio_service at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_service-0.18.18/
+[        ] Found plugin audio_service_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_service_web-0.1.4/
+[        ] Found plugin app_links at /Users/aswinajay/.pub-cache/hosted/pub.dev/app_links-6.4.1/
+[        ] Found plugin app_links_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/app_links_web-1.0.4/
+[        ] Found plugin app_links_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/app_links_linux-1.0.3/
+[        ] Found plugin gtk at /Users/aswinajay/.pub-cache/hosted/pub.dev/gtk-2.1.0/
+[  +25 ms] Found plugin integration_test at /Users/aswinajay/development/flutter/packages/integration_test/
+[   +9 ms] Found plugin window_manager at /Users/aswinajay/.pub-cache/hosted/pub.dev/window_manager-0.4.3/
+[        ] Found plugin screen_retriever at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever-0.2.0/
+[        ] Found plugin screen_retriever_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever_windows-0.2.0/
+[        ] Found plugin screen_retriever_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever_macos-0.2.0/
+[        ] Found plugin screen_retriever_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever_linux-0.2.0/
+[   +2 ms] Found plugin url_launcher at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher-6.3.2/
+[        ] Found plugin url_launcher_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4/
+[        ] Found plugin url_launcher_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_web-2.4.1/
+[        ] Found plugin url_launcher_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.3/
+[        ] Found plugin url_launcher_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+[        ] Found plugin url_launcher_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.4/
+[        ] Found plugin url_launcher_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.18/
+[        ] Found plugin tray_manager at /Users/aswinajay/.pub-cache/hosted/pub.dev/tray_manager-0.5.1/
+[   +2 ms] Found plugin sqlite3_flutter_libs at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.39/
+[        ] Found plugin smtc_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/smtc_windows-1.1.0/
+[   +1 ms] Found plugin shared_preferences at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences-2.5.3/
+[        ] Found plugin shared_preferences_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
+[        ] Found plugin path_provider_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+[        ] Found plugin shared_preferences_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3/
+[        ] Found plugin shared_preferences_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+[        ] Found plugin path_provider_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+[        ] Found plugin shared_preferences_foundation at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+[        ] Found plugin shared_preferences_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.12/
+[   +3 ms] Found plugin permission_handler at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler-11.4.0/
+[        ] Found plugin permission_handler_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.1/
+[        ] Found plugin permission_handler_html at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.3+5/
+[        ] Found plugin permission_handler_apple at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_apple-9.4.7/
+[        ] Found plugin permission_handler_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_android-12.1.0/
+[        ] Found plugin path_provider at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+[        ] Found plugin path_provider_foundation at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.2/
+[        ] Found plugin path_provider_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_android-2.2.18/
+[        ] Found plugin package_info_plus at /Users/aswinajay/.pub-cache/hosted/pub.dev/package_info_plus-6.0.0/
+[        ] Found plugin open_filex at /Users/aswinajay/.pub-cache/hosted/pub.dev/open_filex-4.7.0/
+[        ] Found plugin metadata_god at /Users/aswinajay/.pub-cache/hosted/pub.dev/metadata_god-1.1.0/
+[        ] Found plugin media_kit_libs_windows_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/windows/media_kit_libs_windows_audio/
+[        ] Found plugin media_kit_libs_macos_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/macos/media_kit_libs_macos_audio/
+[        ] Found plugin media_kit_libs_linux at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/linux/media_kit_libs_linux/
+[        ] Found plugin media_kit_libs_ios_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/ios/media_kit_libs_ios_audio/
+[        ] Found plugin media_kit_libs_android_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/android/media_kit_libs_android_audio/
+[   +1 ms] Found plugin local_notifier at /Users/aswinajay/.pub-cache/hosted/pub.dev/local_notifier-0.1.6/
+[        ] Found plugin image_picker at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker-1.2.0/
+[        ] Found plugin image_picker_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_windows-0.2.2/
+[        ] Found plugin file_selector_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_windows-0.9.3+4/
+[        ] Found plugin image_picker_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_macos-0.2.2/
+[        ] Found plugin file_selector_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.4+4/
+[        ] Found plugin image_picker_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_linux-0.2.2/
+[        ] Found plugin file_selector_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_linux-0.9.3+2/
+[        ] Found plugin image_picker_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.13/
+[        ] Found plugin image_picker_for_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_for_web-3.1.0/
+[        ] Found plugin image_picker_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_android-0.8.13+1/
+[        ] Found plugin flutter_plugin_android_lifecycle at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.30/
+[        ] Found plugin home_widget at /Users/aswinajay/.pub-cache/hosted/pub.dev/home_widget-0.7.0+1/
+[        ] Found plugin flutter_timezone at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_timezone-4.1.1/
+[        ] Found plugin flutter_inappwebview at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview-6.1.5/
+[        ] Found plugin flutter_inappwebview_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_windows-0.6.0/
+[        ] Found plugin flutter_inappwebview_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_web-1.1.2/
+[        ] Found plugin flutter_inappwebview_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_macos-1.1.2/
+[        ] Found plugin flutter_inappwebview_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_ios-1.1.2/
+[        ] Found plugin flutter_inappwebview_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_android-1.1.3/
+[        ] Found plugin fk_user_agent at /Users/aswinajay/.pub-cache/git/fk_user_agent-458046cd9a88924e5074d96ba45397219d53b230/
+[        ] Found plugin desktop_webview_window at /Users/aswinajay/.pub-cache/git/flutter-plugins-f261ff20e310d05713249b21c199a9fe17a3de6f/packages/desktop_webview_window/
+[   +1 ms] Found plugin flutter_sharing_intent at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_sharing_intent-1.1.1/
+[        ] Found plugin flutter_secure_storage at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage-9.2.4/
+[        ] Found plugin flutter_secure_storage_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage_windows-3.1.2/
+[        ] Found plugin flutter_secure_storage_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage_web-1.2.1/
+[        ] Found plugin flutter_secure_storage_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage_macos-3.1.3/
+[        ] Found plugin flutter_secure_storage_linux at /Users/aswinajay/.pub-cache/git/flutter_secure_storage-f076cbb65b075afd6e3b648122987a67306dc298/flutter_secure_storage_linux/
+[        ] Found plugin flutter_new_pipe_extractor at /Users/aswinajay/.pub-cache/git/flutter_new_pipe_extractor-ab3ff415114b7b43593e6ee718ad3d760af18350/
+[        ] Found plugin flutter_native_splash at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_native_splash-2.4.6/
+[   +1 ms] Found plugin flutter_displaymode at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_displaymode-0.6.0/
+[        ] Found plugin flutter_discord_rpc at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_discord_rpc-1.1.0/
+[        ] Found plugin sqflite at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqflite-2.4.2/
+[        ] Found plugin sqflite_darwin at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/
+[        ] Found plugin sqflite_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/
+[        ] Found plugin flutter_broadcasts at /Users/aswinajay/.pub-cache/git/flutter_broadcasts-63931dfe06733d4fb7452e9981e1f0b23414d97a/
+[        ] Found plugin file_selector at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector-1.0.3/
+[        ] Found plugin file_selector_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_web-0.9.4+2/
+[        ] Found plugin file_selector_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_ios-0.5.3+2/
+[        ] Found plugin file_selector_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_android-0.5.1+16/
+[        ] Found plugin file_picker at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_picker-11.0.2/
+[   +1 ms] Found plugin disable_battery_optimization at /Users/aswinajay/.pub-cache/git/Disable-Battery-Optimizations-aa77a61946849fff495091fc13dcc390948cc60b/
+[        ] Found plugin device_info_plus at /Users/aswinajay/.pub-cache/hosted/pub.dev/device_info_plus-11.3.0/
+[        ] Found plugin connectivity_plus at /Users/aswinajay/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.5/
+[   +1 ms] Found plugin bonsoir at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir-5.1.11/
+[        ] Found plugin bonsoir_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir_windows-5.1.5/
+[        ] Found plugin bonsoir_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir_linux-5.1.3/
+[        ] Found plugin bonsoir_darwin at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/
+[        ] Found plugin bonsoir_android at /Users/aswinajay/.pub-cache/git/Bonsoir-aa5604628ba41e3a7153769f4465a3d375488f2e/packages/bonsoir_android/
+[        ] Found plugin audio_session at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_session-0.1.25/
+[        ] Found plugin audio_service_mpris at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_service_mpris-0.2.0/
+[        ] Found plugin audio_service at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_service-0.18.18/
+[        ] Found plugin audio_service_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_service_web-0.1.4/
+[        ] Found plugin app_links at /Users/aswinajay/.pub-cache/hosted/pub.dev/app_links-6.4.1/
+[        ] Found plugin app_links_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/app_links_web-1.0.4/
+[        ] Found plugin app_links_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/app_links_linux-1.0.3/
+[        ] Found plugin gtk at /Users/aswinajay/.pub-cache/hosted/pub.dev/gtk-2.1.0/
+[   +4 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +16 ms] Found plugin integration_test at /Users/aswinajay/development/flutter/packages/integration_test/
+[   +8 ms] Found plugin window_manager at /Users/aswinajay/.pub-cache/hosted/pub.dev/window_manager-0.4.3/
+[        ] Found plugin screen_retriever at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever-0.2.0/
+[        ] Found plugin screen_retriever_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever_windows-0.2.0/
+[        ] Found plugin screen_retriever_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever_macos-0.2.0/
+[        ] Found plugin screen_retriever_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/screen_retriever_linux-0.2.0/
+[   +1 ms] Found plugin url_launcher at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher-6.3.2/
+[        ] Found plugin url_launcher_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4/
+[        ] Found plugin url_launcher_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_web-2.4.1/
+[        ] Found plugin url_launcher_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.3/
+[        ] Found plugin url_launcher_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+[        ] Found plugin url_launcher_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.4/
+[        ] Found plugin url_launcher_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.18/
+[        ] Found plugin tray_manager at /Users/aswinajay/.pub-cache/hosted/pub.dev/tray_manager-0.5.1/
+[   +1 ms] Found plugin sqlite3_flutter_libs at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.39/
+[        ] Found plugin smtc_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/smtc_windows-1.1.0/
+[   +1 ms] Found plugin shared_preferences at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences-2.5.3/
+[        ] Found plugin shared_preferences_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
+[        ] Found plugin path_provider_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+[        ] Found plugin shared_preferences_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3/
+[        ] Found plugin shared_preferences_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+[        ] Found plugin path_provider_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+[        ] Found plugin shared_preferences_foundation at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+[        ] Found plugin shared_preferences_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.12/
+[   +2 ms] Found plugin permission_handler at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler-11.4.0/
+[        ] Found plugin permission_handler_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.1/
+[        ] Found plugin permission_handler_html at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.3+5/
+[        ] Found plugin permission_handler_apple at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_apple-9.4.7/
+[        ] Found plugin permission_handler_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/permission_handler_android-12.1.0/
+[        ] Found plugin path_provider at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+[        ] Found plugin path_provider_foundation at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.2/
+[        ] Found plugin path_provider_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/path_provider_android-2.2.18/
+[        ] Found plugin package_info_plus at /Users/aswinajay/.pub-cache/hosted/pub.dev/package_info_plus-6.0.0/
+[        ] Found plugin open_filex at /Users/aswinajay/.pub-cache/hosted/pub.dev/open_filex-4.7.0/
+[        ] Found plugin metadata_god at /Users/aswinajay/.pub-cache/hosted/pub.dev/metadata_god-1.1.0/
+[        ] Found plugin media_kit_libs_windows_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/windows/media_kit_libs_windows_audio/
+[        ] Found plugin media_kit_libs_macos_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/macos/media_kit_libs_macos_audio/
+[        ] Found plugin media_kit_libs_linux at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/linux/media_kit_libs_linux/
+[        ] Found plugin media_kit_libs_ios_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/ios/media_kit_libs_ios_audio/
+[        ] Found plugin media_kit_libs_android_audio at /Users/aswinajay/.pub-cache/git/media-kit-d310049f24196250d876efb02b9ff56fa9ef5068/libs/android/media_kit_libs_android_audio/
+[   +1 ms] Found plugin local_notifier at /Users/aswinajay/.pub-cache/hosted/pub.dev/local_notifier-0.1.6/
+[        ] Found plugin image_picker at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker-1.2.0/
+[        ] Found plugin image_picker_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_windows-0.2.2/
+[        ] Found plugin file_selector_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_windows-0.9.3+4/
+[        ] Found plugin image_picker_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_macos-0.2.2/
+[        ] Found plugin file_selector_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.4+4/
+[        ] Found plugin image_picker_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_linux-0.2.2/
+[        ] Found plugin file_selector_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_linux-0.9.3+2/
+[        ] Found plugin image_picker_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.13/
+[        ] Found plugin image_picker_for_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_for_web-3.1.0/
+[        ] Found plugin image_picker_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/image_picker_android-0.8.13+1/
+[        ] Found plugin flutter_plugin_android_lifecycle at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.30/
+[        ] Found plugin home_widget at /Users/aswinajay/.pub-cache/hosted/pub.dev/home_widget-0.7.0+1/
+[   +1 ms] Found plugin flutter_timezone at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_timezone-4.1.1/
+[        ] Found plugin flutter_inappwebview at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview-6.1.5/
+[        ] Found plugin flutter_inappwebview_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_windows-0.6.0/
+[        ] Found plugin flutter_inappwebview_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_web-1.1.2/
+[        ] Found plugin flutter_inappwebview_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_macos-1.1.2/
+[        ] Found plugin flutter_inappwebview_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_ios-1.1.2/
+[        ] Found plugin flutter_inappwebview_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_inappwebview_android-1.1.3/
+[        ] Found plugin fk_user_agent at /Users/aswinajay/.pub-cache/git/fk_user_agent-458046cd9a88924e5074d96ba45397219d53b230/
+[        ] Found plugin desktop_webview_window at /Users/aswinajay/.pub-cache/git/flutter-plugins-f261ff20e310d05713249b21c199a9fe17a3de6f/packages/desktop_webview_window/
+[   +1 ms] Found plugin flutter_sharing_intent at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_sharing_intent-1.1.1/
+[        ] Found plugin flutter_secure_storage at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage-9.2.4/
+[        ] Found plugin flutter_secure_storage_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage_windows-3.1.2/
+[        ] Found plugin flutter_secure_storage_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage_web-1.2.1/
+[        ] Found plugin flutter_secure_storage_macos at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_secure_storage_macos-3.1.3/
+[        ] Found plugin flutter_secure_storage_linux at /Users/aswinajay/.pub-cache/git/flutter_secure_storage-f076cbb65b075afd6e3b648122987a67306dc298/flutter_secure_storage_linux/
+[        ] Found plugin flutter_new_pipe_extractor at /Users/aswinajay/.pub-cache/git/flutter_new_pipe_extractor-ab3ff415114b7b43593e6ee718ad3d760af18350/
+[        ] Found plugin flutter_native_splash at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_native_splash-2.4.6/
+[   +1 ms] Found plugin flutter_displaymode at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_displaymode-0.6.0/
+[        ] Found plugin flutter_discord_rpc at /Users/aswinajay/.pub-cache/hosted/pub.dev/flutter_discord_rpc-1.1.0/
+[        ] Found plugin sqflite at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqflite-2.4.2/
+[        ] Found plugin sqflite_darwin at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqflite_darwin-2.4.2/
+[        ] Found plugin sqflite_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/sqflite_android-2.4.2+2/
+[        ] Found plugin flutter_broadcasts at /Users/aswinajay/.pub-cache/git/flutter_broadcasts-63931dfe06733d4fb7452e9981e1f0b23414d97a/
+[        ] Found plugin file_selector at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector-1.0.3/
+[        ] Found plugin file_selector_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_web-0.9.4+2/
+[        ] Found plugin file_selector_ios at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_ios-0.5.3+2/
+[        ] Found plugin file_selector_android at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_selector_android-0.5.1+16/
+[        ] Found plugin file_picker at /Users/aswinajay/.pub-cache/hosted/pub.dev/file_picker-11.0.2/
+[   +1 ms] Found plugin disable_battery_optimization at /Users/aswinajay/.pub-cache/git/Disable-Battery-Optimizations-aa77a61946849fff495091fc13dcc390948cc60b/
+[        ] Found plugin device_info_plus at /Users/aswinajay/.pub-cache/hosted/pub.dev/device_info_plus-11.3.0/
+[        ] Found plugin connectivity_plus at /Users/aswinajay/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.5/
+[   +1 ms] Found plugin bonsoir at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir-5.1.11/
+[        ] Found plugin bonsoir_windows at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir_windows-5.1.5/
+[        ] Found plugin bonsoir_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir_linux-5.1.3/
+[        ] Found plugin bonsoir_darwin at /Users/aswinajay/.pub-cache/hosted/pub.dev/bonsoir_darwin-5.1.3/
+[        ] Found plugin bonsoir_android at /Users/aswinajay/.pub-cache/git/Bonsoir-aa5604628ba41e3a7153769f4465a3d375488f2e/packages/bonsoir_android/
+[        ] Found plugin audio_session at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_session-0.1.25/
+[        ] Found plugin audio_service_mpris at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_service_mpris-0.2.0/
+[        ] Found plugin audio_service at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_service-0.18.18/
+[        ] Found plugin audio_service_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/audio_service_web-0.1.4/
+[        ] Found plugin app_links at /Users/aswinajay/.pub-cache/hosted/pub.dev/app_links-6.4.1/
+[        ] Found plugin app_links_web at /Users/aswinajay/.pub-cache/hosted/pub.dev/app_links_web-1.0.4/
+[        ] Found plugin app_links_linux at /Users/aswinajay/.pub-cache/hosted/pub.dev/app_links_linux-1.0.3/
+[        ] Found plugin gtk at /Users/aswinajay/.pub-cache/hosted/pub.dev/gtk-2.1.0/
+[   +6 ms] Generating /Users/aswinajay/Documents/projects/apps/spotube/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[        ] Skipping generating generated_plugins.cmake because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[        ] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[        ] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[        ] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[   +6 ms] executing: sysctl hw.optional.arm64
+[   +2 ms] Exit code 0 from: sysctl hw.optional.arm64
+[        ] hw.optional.arm64: 1
+[        ] executing: /usr/bin/arch -arm64e xcrun xcodebuild -version
+[  +91 ms] Exit code 0 from: /usr/bin/arch -arm64e xcrun xcodebuild -version
+[        ] Xcode 26.4.1
+           Build version 17E202
+[  +29 ms] Warning: Building for device with codesigning disabled. You will have to manually codesign before deploying to device.
+[   +2 ms] executing: [/Users/aswinajay/Documents/projects/apps/spotube/ios/] /usr/bin/arch -arm64e xcrun xcodebuild -list
+[ +606 ms] Command line invocation:
+               /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -list
+
+           Information about project "Runner":
+               Targets:
+                   Runner
+                   HomePlayerWidgetExtension
+
+               Build Configurations:
+                   Debug
+                   Release
+                   Profile
+
+               If no build configuration is specified and -scheme is not passed then "Release" is used.
+
+               Schemes:
+                   Copy of Runner
+                   HomePlayerWidgetExtension
+                   Runner
+[   +3 ms] executing: [/Users/aswinajay/Documents/projects/apps/spotube/ios/Runner.xcodeproj/] /usr/bin/arch -arm64e xcrun xcodebuild -project /Users/aswinajay/Documents/projects/apps/spotube/ios/Runner.xcodeproj -scheme Runner -configuration Release -destination generic/platform=iOS -showBuildSettings BUILD_DIR=/Users/aswinajay/Documents/projects/apps/spotube/build/ios
+[        ] executing: [/Users/aswinajay/Documents/projects/apps/spotube/ios/Runner.xcodeproj/] /usr/bin/arch -arm64e xcrun xcodebuild -project /Users/aswinajay/Documents/projects/apps/spotube/ios/Runner.xcodeproj -scheme Runner -configuration Release -destination generic/platform=iOS -showBuildSettings BUILD_DIR=/Users/aswinajay/Documents/projects/apps/spotube/build/ios
+[+1327 ms] Command line invocation:
+               /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/aswinajay/Documents/projects/apps/spotube/ios/Runner.xcodeproj -scheme Runner -configuration Release -destination generic/platform=iOS -showBuildSettings BUILD_DIR=/Users/aswinajay/Documents/projects/apps/spotube/build/ios
+
+           Build settings from command line:
+               BUILD_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios
+
+           Build settings for action build and target Runner:
+               ACTION = build
+               AD_HOC_CODE_SIGNING_ALLOWED = NO
+               AGGREGATE_TRACKED_DOMAINS = YES
+               ALLOW_BUILD_REQUEST_OVERRIDES = NO
+               ALLOW_TARGET_PLATFORM_SPECIALIZATION = NO
+               ALTERNATE_GROUP = staff
+               ALTERNATE_MODE = u+w,go-w,a+rX
+               ALTERNATE_OWNER = aswinajay
+               ALTERNATIVE_DISTRIBUTION_WEB = NO
+               ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
+               ALWAYS_SEARCH_USER_PATHS = NO
+               ALWAYS_USE_SEPARATE_HEADERMAPS = NO
+               APPLICATION_EXTENSION_API_ONLY = NO
+               APPLY_RULES_IN_COPY_FILES = NO
+               APPLY_RULES_IN_COPY_HEADERS = NO
+               APP_SHORTCUTS_ENABLE_FLEXIBLE_MATCHING = YES
+               ARCHS = arm64
+               ARCHS_BASE = arm64
+               ARCHS_STANDARD = arm64
+               ARCHS_STANDARD_32_64_BIT = armv7 arm64
+               ARCHS_STANDARD_32_BIT = armv7
+               ARCHS_STANDARD_64_BIT = arm64
+               ARCHS_STANDARD_INCLUDING_64_BIT = arm64
+               ARCHS_UNIVERSAL_IPHONE_OS = armv7 arm64
+               ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon
+               ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES
+               AUTOMATICALLY_MERGE_DEPENDENCIES = NO
+               AUTOMATION_APPLE_EVENTS = NO
+               AVAILABLE_PLATFORMS = android appletvos appletvsimulator driverkit freebsd iphoneos iphonesimulator linux macosx none openbsd qnx watchos watchsimulator webassembly xros xrsimulator
+               BUILD_ACTIVE_RESOURCES_ONLY = NO
+               BUILD_COMPONENTS = headers build
+               BUILD_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios
+               BUILD_LIBRARY_FOR_DISTRIBUTION = NO
+               BUILD_ONLY_KNOWN_LOCALIZATIONS = NO
+               BUILD_ROOT = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Products
+               BUILD_STYLE = 
+               BUILD_VARIANTS = normal
+               BUILT_PRODUCTS_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos
+               BUNDLE_CONTENTS_FOLDER_PATH_deep = Contents/
+               BUNDLE_EXECUTABLE_FOLDER_NAME_deep = MacOS
+               BUNDLE_EXTENSIONS_FOLDER_PATH = Extensions
+               BUNDLE_FORMAT = shallow
+               BUNDLE_FRAMEWORKS_FOLDER_PATH = Frameworks
+               BUNDLE_PLUGINS_FOLDER_PATH = PlugIns
+               BUNDLE_PRIVATE_HEADERS_FOLDER_PATH = PrivateHeaders
+               BUNDLE_PUBLIC_HEADERS_FOLDER_PATH = Headers
+               CACHE_ROOT = /var/folders/44/r690yckj53z0s_182djp5jch0000gn/C/com.apple.DeveloperTools/26.4.1-17E202/Xcode
+               CCHROOT = /var/folders/44/r690yckj53z0s_182djp5jch0000gn/C/com.apple.DeveloperTools/26.4.1-17E202/Xcode
+               CHMOD = /bin/chmod
+               CHOWN = chown
+               CLANG_ANALYZER_NONNULL = YES
+               CLANG_CACHE_FINE_GRAINED_OUTPUTS = YES
+               CLANG_CXX_LANGUAGE_STANDARD = gnu++0x
+               CLANG_CXX_LIBRARY = libc++
+               CLANG_ENABLE_EXPLICIT_MODULES = YES
+               CLANG_ENABLE_MODULES = YES
+               CLANG_ENABLE_OBJC_ARC = YES
+               CLANG_MODULES_BUILD_SESSION_FILE = /Users/aswinajay/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation
+               CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES
+               CLANG_WARN_BOOL_CONVERSION = YES
+               CLANG_WARN_COMMA = YES
+               CLANG_WARN_CONSTANT_CONVERSION = YES
+               CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES
+               CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR
+               CLANG_WARN_EMPTY_BODY = YES
+               CLANG_WARN_ENUM_CONVERSION = YES
+               CLANG_WARN_INFINITE_RECURSION = YES
+               CLANG_WARN_INT_CONVERSION = YES
+               CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES
+               CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES
+               CLANG_WARN_OBJC_LITERAL_CONVERSION = YES
+               CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR
+               CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
+               CLANG_WARN_RANGE_LOOP_ANALYSIS = YES
+               CLANG_WARN_STRICT_PROTOTYPES = YES
+               CLANG_WARN_SUSPICIOUS_MOVE = YES
+               CLANG_WARN_UNREACHABLE_CODE = YES
+               CLANG_WARN__DUPLICATE_METHOD_MATCH = YES
+               CLASS_FILE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/JavaClasses
+               CLEAN_PRECOMPS = YES
+               CLONE_HEADERS = NO
+               COCOAPODS_PARALLEL_CODE_SIGN = true
+               CODESIGNING_FOLDER_PATH = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/Runner.app
+               CODE_SIGNING_ALLOWED = YES
+               CODE_SIGNING_REQUIRED = YES
+               CODE_SIGN_CONTEXT_CLASS = XCiPhoneOSCodeSignContext
+               CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements
+               CODE_SIGN_IDENTITY = iPhone Developer
+               CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES
+               COLOR_DIAGNOSTICS = NO
+               COMBINE_HIDPI_IMAGES = NO
+               COMPILATION_CACHE_CAS_PATH = /Users/aswinajay/Library/Developer/Xcode/DerivedData/CompilationCache.noindex
+               COMPILATION_CACHE_KEEP_CAS_DIRECTORY = YES
+               COMPILER_INDEX_STORE_ENABLE = Default
+               COMPOSITE_SDK_DIRS = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/CompositeSDKs
+               COMPRESS_PNG_FILES = YES
+               CONFIGURATION = Release
+               CONFIGURATION_BUILD_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos
+               CONFIGURATION_TEMP_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos
+               CONTENTS_FOLDER_PATH = Runner.app
+               CONTENTS_FOLDER_PATH_SHALLOW_BUNDLE_NO = Runner.app/Contents
+               CONTENTS_FOLDER_PATH_SHALLOW_BUNDLE_YES = Runner.app
+               COPYING_PRESERVES_HFS_DATA = NO
+               COPY_HEADERS_RUN_UNIFDEF = NO
+               COPY_PHASE_STRIP = NO
+               CORRESPONDING_SIMULATOR_PLATFORM_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform
+               CORRESPONDING_SIMULATOR_PLATFORM_NAME = iphonesimulator
+               CORRESPONDING_SIMULATOR_SDK_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.4.sdk
+               CORRESPONDING_SIMULATOR_SDK_NAME = iphonesimulator26.4
+               CP = /bin/cp
+               CREATE_INFOPLIST_SECTION_IN_BINARY = NO
+               CURRENT_ARCH = undefined_arch
+               CURRENT_PROJECT_VERSION = 44
+               CURRENT_VARIANT = normal
+               DART_OBFUSCATION = false
+               DEAD_CODE_STRIPPING = YES
+               DEBUGGING_SYMBOLS = YES
+               DEBUG_INFORMATION_FORMAT = dwarf-with-dsym
+               DEBUG_INFORMATION_VERSION = compiler-default
+               DEFAULT_COMPILER = com.apple.compilers.llvm.clang.1_0
+               DEFAULT_DEXT_INSTALL_PATH = /System/Library/DriverExtensions
+               DEFAULT_KEXT_INSTALL_PATH = /System/Library/Extensions
+               DEFINES_MODULE = NO
+               DEPLOYMENT_LOCATION = NO
+               DEPLOYMENT_POSTPROCESSING = NO
+               DEPLOYMENT_TARGET_SETTING_NAME = IPHONEOS_DEPLOYMENT_TARGET
+               DEPLOYMENT_TARGET_SUGGESTED_VALUES = 12.0 12.1 12.2 12.3 12.4 13.0 13.1 13.2 13.3 13.4 13.5 13.6 14.0 14.1 14.2 14.3 14.4 14.5 14.6 14.7 15.0 15.1 15.2 15.3 15.4 15.5 15.6 16.0 16.1 16.2 16.3 16.4 16.5 16.6 17.0 17.1 17.2 17.3 17.4 17.5 17.6 18.0 18.1 18.2 18.3 18.4 18.5 18.6 26.0 26.2 26.3 26.4
+               DERIVED_FILES_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/DerivedSources
+               DERIVED_FILE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/DerivedSources
+               DERIVED_SOURCES_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/DerivedSources
+               DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = NO
+               DEVELOPER_APPLICATIONS_DIR = /Applications/Xcode.app/Contents/Developer/Applications
+               DEVELOPER_BIN_DIR = /Applications/Xcode.app/Contents/Developer/usr/bin
+               DEVELOPER_DIR = /Applications/Xcode.app/Contents/Developer
+               DEVELOPER_FRAMEWORKS_DIR = /Applications/Xcode.app/Contents/Developer/Library/Frameworks
+               DEVELOPER_FRAMEWORKS_DIR_QUOTED = /Applications/Xcode.app/Contents/Developer/Library/Frameworks
+               DEVELOPER_LIBRARY_DIR = /Applications/Xcode.app/Contents/Developer/Library
+               DEVELOPER_SDK_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs
+               DEVELOPER_TOOLS_DIR = /Applications/Xcode.app/Contents/Developer/Tools
+               DEVELOPER_USR_DIR = /Applications/Xcode.app/Contents/Developer/usr
+               DEVELOPMENT_LANGUAGE = en
+               DEVELOPMENT_TEAM = 9726WB8R7G
+               DIAGNOSE_MISSING_TARGET_DEPENDENCIES = YES
+               DIFF = /usr/bin/diff
+               DOCUMENTATION_FOLDER_PATH = Runner.app/en.lproj/Documentation
+               DONT_GENERATE_INFOPLIST_FILE = NO
+               DRIVERKIT_DEPLOYMENT_TARGET = 25.4
+               DSTROOT = /tmp/Runner.dst
+               DT_TOOLCHAIN_DIR = /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain
+               DUMP_DEPENDENCIES = NO
+               DUMP_DEPENDENCIES_OUTPUT_PATH = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Runner-BuildDependencyInfo.json
+               DWARF_DSYM_FILE_NAME = Runner.app.dSYM
+               DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT = NO
+               DWARF_DSYM_FOLDER_PATH = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos
+               DYNAMIC_LIBRARY_EXTENSION = dylib
+               EAGER_COMPILATION_ALLOW_SCRIPTS = NO
+               EAGER_LINKING = NO
+               EFFECTIVE_PLATFORM_NAME = -iphoneos
+               EFFECTIVE_SWIFT_VERSION = 5
+               EMBEDDED_CONTENT_CONTAINS_SWIFT = NO
+               EMBEDDED_PROFILE_NAME = embedded.mobileprovision
+               EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = NO
+               ENABLE_APP_SANDBOX = NO
+               ENABLE_BITCODE = NO
+               ENABLE_CODE_COVERAGE = YES
+               ENABLE_COHORT_ARCHS = NO
+               ENABLE_CPLUSPLUS_BOUNDS_SAFE_BUFFERS = NO
+               ENABLE_C_BOUNDS_SAFETY = NO
+               ENABLE_DEBUG_DYLIB = YES
+               ENABLE_DEFAULT_HEADER_SEARCH_PATHS = YES
+               ENABLE_DEFAULT_SEARCH_PATHS = YES
+               ENABLE_ENHANCED_SECURITY = NO
+               ENABLE_HARDENED_RUNTIME = NO
+               ENABLE_HEADER_DEPENDENCIES = YES
+               ENABLE_INCOMING_NETWORK_CONNECTIONS = NO
+               ENABLE_NS_ASSERTIONS = NO
+               ENABLE_ON_DEMAND_RESOURCES = YES
+               ENABLE_OUTGOING_NETWORK_CONNECTIONS = NO
+               ENABLE_POINTER_AUTHENTICATION = NO
+               ENABLE_RESOURCE_ACCESS_AUDIO_INPUT = NO
+               ENABLE_RESOURCE_ACCESS_BLUETOOTH = NO
+               ENABLE_RESOURCE_ACCESS_CALENDARS = NO
+               ENABLE_RESOURCE_ACCESS_CAMERA = NO
+               ENABLE_RESOURCE_ACCESS_CONTACTS = NO
+               ENABLE_RESOURCE_ACCESS_LOCATION = NO
+               ENABLE_RESOURCE_ACCESS_PHOTO_LIBRARY = NO
+               ENABLE_RESOURCE_ACCESS_PRINTING = NO
+               ENABLE_RESOURCE_ACCESS_USB = NO
+               ENABLE_SDK_IMPORTS = NO
+               ENABLE_SECURITY_COMPILER_WARNINGS = NO
+               ENABLE_STRICT_OBJC_MSGSEND = YES
+               ENABLE_TESTABILITY = NO
+               ENABLE_TESTING_SEARCH_PATHS = NO
+               ENABLE_USER_SCRIPT_SANDBOXING = NO
+               ENFORCE_VALID_ARCHS = YES
+               ENTITLEMENTS_ALLOWED = YES
+               ENTITLEMENTS_DESTINATION = Signature
+               ENTITLEMENTS_REQUIRED = NO
+               EXCLUDED_ARCHS = armv7
+               EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS = .DS_Store .svn .git .hg CVS
+               EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = *.nib *.lproj *.framework *.gch *.xcode* *.xcassets *.icon (*) .DS_Store CVS .svn .git .hg *.pbproj *.pbxproj
+               EXECUTABLES_FOLDER_PATH = Runner.app/Executables
+               EXECUTABLE_FOLDER_PATH = Runner.app
+               EXECUTABLE_FOLDER_PATH_SHALLOW_BUNDLE_NO = Runner.app/MacOS
+               EXECUTABLE_FOLDER_PATH_SHALLOW_BUNDLE_YES = Runner.app
+               EXECUTABLE_NAME = Runner
+               EXECUTABLE_PATH = Runner.app/Runner
+               EXTENSIONS_FOLDER_PATH = Runner.app/Extensions
+               FILE_LIST = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects/LinkFileList
+               FIXED_FILES_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/FixedFiles
+               FLUTTER_APPLICATION_PATH = /Users/aswinajay/Documents/projects/apps/spotube
+               FLUTTER_BUILD_DIR = build
+               FLUTTER_BUILD_NAME = 5.1.1
+               FLUTTER_BUILD_NUMBER = 44
+               FLUTTER_CLI_BUILD_MODE = debug
+               FLUTTER_ROOT = /Users/aswinajay/development/flutter
+               FLUTTER_TARGET = lib/main.dart
+               FRAMEWORKS_FOLDER_PATH = Runner.app/Frameworks
+               FRAMEWORK_FLAG_PREFIX = -framework
+               FRAMEWORK_SEARCH_PATHS = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos  "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/DKImagePickerController" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/DKPhotoGallery" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/OrderedSet" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/SDWebImage" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/SwiftyGif" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/app_links" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/audio_service" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/audio_session" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/bonsoir_darwin" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/connectivity_plus" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/device_info_plus" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/file_picker" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/file_selector_ios" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/fk_user_agent" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_broadcasts" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_discord_rpc" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_inappwebview_ios" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_native_splash" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_secure_storage" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_sharing_intent" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_timezone" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/home_widget" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/image_picker_ios" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/integration_test" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/media_kit_libs_ios_audio" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/metadata_god" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/open_filex" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/package_info_plus" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/path_provider_foundation" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/permission_handler_apple" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/shared_preferences_foundation" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/sqflite_darwin" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/sqlite3" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/sqlite3_flutter_libs" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/url_launcher_ios" "/Users/aswinajay/Documents/projects/apps/spotube/ios/Pods/../.symlinks/plugins/media_kit_libs_ios_audio/ios/Frameworks" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/XCFrameworkIntermediates/media_kit_libs_ios_audio"
+               FRAMEWORK_VERSION = A
+               FULL_PRODUCT_NAME = Runner.app
+               FUSE_BUILD_PHASES = YES
+               FUSE_BUILD_SCRIPT_PHASES = NO
+               GCC3_VERSION = 3.3
+               GCC_C_LANGUAGE_STANDARD = gnu99
+               GCC_DYNAMIC_NO_PIC = NO
+               GCC_INLINES_ARE_PRIVATE_EXTERN = YES
+               GCC_NO_COMMON_BLOCKS = YES
+               GCC_PFE_FILE_C_DIALECTS = c objective-c c++ objective-c++
+               GCC_PREPROCESSOR_DEFINITIONS =  COCOAPODS=1
+               GCC_SYMBOLS_PRIVATE_EXTERN = YES
+               GCC_THUMB_SUPPORT = YES
+               GCC_TREAT_WARNINGS_AS_ERRORS = NO
+               GCC_VERSION = com.apple.compilers.llvm.clang.1_0
+               GCC_VERSION_IDENTIFIER = com_apple_compilers_llvm_clang_1_0
+               GCC_WARN_64_TO_32_BIT_CONVERSION = YES
+               GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR
+               GCC_WARN_UNDECLARED_SELECTOR = YES
+               GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE
+               GCC_WARN_UNUSED_FUNCTION = YES
+               GCC_WARN_UNUSED_VARIABLE = YES
+               GENERATED_MODULEMAP_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/GeneratedModuleMaps-iphoneos
+               GENERATE_INFOPLIST_FILE = NO
+               GENERATE_INTERMEDIATE_TEXT_BASED_STUBS = YES
+               GENERATE_PKGINFO_FILE = YES
+               GENERATE_PRELINK_OBJECT_FILE = NO
+               GENERATE_PROFILING_CODE = NO
+               GENERATE_TEXT_BASED_STUBS = NO
+               GID = 20
+               GROUP = staff
+               HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT = YES
+               HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES = YES
+               HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_TARGETS_NOT_BEING_BUILT = YES
+               HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS = YES
+               HEADERMAP_INCLUDES_PROJECT_HEADERS = YES
+               HEADERMAP_USES_FRAMEWORK_PREFIX_ENTRIES = YES
+               HEADERMAP_USES_VFS = NO
+               HEADER_SEARCH_PATHS = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/include  "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/DKImagePickerController/DKImagePickerController.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/DKPhotoGallery/DKPhotoGallery.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/OrderedSet/OrderedSet.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/SDWebImage/SDWebImage.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/SwiftyGif/SwiftyGif.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/app_links/app_links.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/audio_service/audio_service.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/audio_session/audio_session.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/bonsoir_darwin/bonsoir_darwin.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/connectivity_plus/connectivity_plus.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/device_info_plus/device_info_plus.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/file_picker/file_picker.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/file_selector_ios/file_selector_ios.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/fk_user_agent/fk_user_agent.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_broadcasts/flutter_broadcasts.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_discord_rpc/flutter_discord_rpc.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_inappwebview_ios/flutter_inappwebview_ios.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_native_splash/flutter_native_splash.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_secure_storage/flutter_secure_storage.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_sharing_intent/flutter_sharing_intent.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_timezone/flutter_timezone.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/home_widget/home_widget.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/image_picker_ios/image_picker_ios.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/integration_test/integration_test.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/media_kit_libs_ios_audio/media_kit_libs_ios_audio.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/metadata_god/metadata_god.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/open_filex/open_filex.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/package_info_plus/package_info_plus.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/path_provider_foundation/path_provider_foundation.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/permission_handler_apple/permission_handler_apple.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/shared_preferences_foundation/shared_preferences_foundation.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/sqflite_darwin/sqflite_darwin.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/sqlite3/sqlite3.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/sqlite3_flutter_libs/sqlite3_flutter_libs.framework/Headers" "/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/url_launcher_ios/url_launcher_ios.framework/Headers"
+               HOME = /Users/aswinajay
+               HOST_ARCH = arm64
+               HOST_PLATFORM = macosx
+               ICONV = /usr/bin/iconv
+               IMPLICIT_DEPENDENCY_DOMAIN = default
+               INDEX_STORE_COMPRESS = NO
+               INDEX_STORE_ONLY_PROJECT_FILES = NO
+               INFOPLIST_ENABLE_CFBUNDLEICONS_MERGE = YES
+               INFOPLIST_EXPAND_BUILD_SETTINGS = YES
+               INFOPLIST_FILE = Runner/Info.plist
+               INFOPLIST_OUTPUT_FORMAT = binary
+               INFOPLIST_PATH = Runner.app/Info.plist
+               INFOPLIST_PREPROCESS = NO
+               INFOSTRINGS_PATH = Runner.app/en.lproj/InfoPlist.strings
+               INLINE_PRIVATE_FRAMEWORKS = NO
+               INSTALLAPI_IGNORE_SKIP_INSTALL = YES
+               INSTALLHDRS_COPY_PHASE = NO
+               INSTALLHDRS_SCRIPT_PHASE = NO
+               INSTALL_DIR = /tmp/Runner.dst/Applications
+               INSTALL_GROUP = staff
+               INSTALL_MODE_FLAG = u+w,go-w,a+rX
+               INSTALL_OWNER = aswinajay
+               INSTALL_PATH = /Applications
+               INSTALL_ROOT = /tmp/Runner.dst
+               IPHONEOS_DEPLOYMENT_TARGET = 14.0
+               IS_UNOPTIMIZED_BUILD = NO
+               JAVAC_DEFAULT_FLAGS = -J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8
+               JAVA_APP_STUB = /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub
+               JAVA_ARCHIVE_CLASSES = YES
+               JAVA_ARCHIVE_TYPE = JAR
+               JAVA_COMPILER = /usr/bin/javac
+               JAVA_FOLDER_PATH = Runner.app/Java
+               JAVA_FRAMEWORK_RESOURCES_DIRS = Resources
+               JAVA_JAR_FLAGS = cv
+               JAVA_SOURCE_SUBDIR = .
+               JAVA_USE_DEPENDENCIES = YES
+               JAVA_ZIP_FLAGS = -urg
+               JIKES_DEFAULT_FLAGS = +E +OLDCSO
+               KASAN_CFLAGS_CLASSIC = -DKASAN=1 -DKASAN_CLASSIC=1 -fsanitize=address -mllvm -asan-globals-live-support -mllvm -asan-force-dynamic-shadow
+               KASAN_CFLAGS_TBI = -DKASAN=1 -DKASAN_TBI=1 -fsanitize=kernel-hwaddress -mllvm -hwasan-recover=0 -mllvm -hwasan-instrument-atomics=0 -mllvm -hwasan-instrument-stack=1 -mllvm -hwasan-generate-tags-with-calls=1 -mllvm -hwasan-instrument-with-calls=1 -mllvm -hwasan-use-short-granules=0 -mllvm -hwasan-memory-access-callback-prefix=__asan_
+               KASAN_DEFAULT_CFLAGS = -DKASAN=1 -DKASAN_CLASSIC=1 -fsanitize=address -mllvm -asan-globals-live-support -mllvm -asan-force-dynamic-shadow
+               KEEP_PRIVATE_EXTERNS = NO
+               LD_DEPENDENCY_INFO_FILE = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal/undefined_arch/Runner_dependency_info.dat
+               LD_EXPORT_SYMBOLS = YES
+               LD_GENERATE_MAP_FILE = NO
+               LD_MAP_FILE_PATH = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Runner-LinkMap-normal-undefined_arch.txt
+               LD_NO_PIE = NO
+               LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER = YES
+               LD_RUNPATH_SEARCH_PATHS =  /usr/lib/swift '@executable_path/Frameworks' '@loader_path/Frameworks' @executable_path/Frameworks
+               LD_RUNPATH_SEARCH_PATHS_YES = @loader_path/../Frameworks
+               LD_SHARED_CACHE_ELIGIBLE = Automatic
+               LD_WARN_DUPLICATE_LIBRARIES = NO
+               LD_WARN_UNUSED_DYLIBS = NO
+               LEGACY_DEVELOPER_DIR = /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer
+               LEX = lex
+               LIBRARY_DEXT_INSTALL_PATH = /Library/DriverExtensions
+               LIBRARY_FLAG_NOSPACE = YES
+               LIBRARY_FLAG_PREFIX = -l
+               LIBRARY_KEXT_INSTALL_PATH = /Library/Extensions
+               LIBRARY_SEARCH_PATHS = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk/usr/lib/swift /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk/usr/lib/swift /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk/usr/lib/swift
+               LINKER_DISPLAYS_MANGLED_NAMES = NO
+               LINK_FILE_LIST_normal_arm64 = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner.LinkFileList
+               LINK_OBJC_RUNTIME = YES
+               LINK_WITH_STANDARD_LIBRARIES = YES
+               LLVM_TARGET_TRIPLE_OS_VERSION = ios14.0
+               LLVM_TARGET_TRIPLE_VENDOR = apple
+               LM_AUX_CONST_METADATA_LIST_PATH_normal_arm64 = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner.SwiftConstValuesFileList
+               LOCALIZATION_EXPORT_SUPPORTED = YES
+               LOCALIZATION_PREFERS_STRING_CATALOGS = NO
+               LOCALIZED_RESOURCES_FOLDER_PATH = Runner.app/en.lproj
+               LOCALIZED_STRING_CODE_COMMENTS = NO
+               LOCALIZED_STRING_MACRO_NAMES = NSLocalizedString CFCopyLocalizedString
+               LOCALIZED_STRING_SWIFTUI_SUPPORT = YES
+               LOCAL_ADMIN_APPS_DIR = /Applications/Utilities
+               LOCAL_APPS_DIR = /Applications
+               LOCAL_DEVELOPER_DIR = /Library/Developer
+               LOCAL_LIBRARY_DIR = /Library
+               LOCROOT = /Users/aswinajay/Documents/projects/apps/spotube/ios
+               LOCSYMROOT = /Users/aswinajay/Documents/projects/apps/spotube/ios
+               MACH_O_TYPE = mh_execute
+               MACOSX_DEPLOYMENT_TARGET = 26.4
+               MAC_OS_X_PRODUCT_BUILD_VERSION = 25F5042g
+               MAC_OS_X_VERSION_ACTUAL = 260500
+               MAC_OS_X_VERSION_MAJOR = 260000
+               MAC_OS_X_VERSION_MINOR = 260500
+               MAKE_MERGEABLE = NO
+               MERGEABLE_LIBRARY = NO
+               MERGED_BINARY_TYPE = none
+               MERGE_LINKED_LIBRARIES = NO
+               METAL_LIBRARY_FILE_BASE = default
+               METAL_LIBRARY_OUTPUT_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/Runner.app
+               MODULES_FOLDER_PATH = Runner.app/Modules
+               MODULE_CACHE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/ModuleCache.noindex
+               MTL_ENABLE_DEBUG_INFO = NO
+               NATIVE_ARCH = arm64
+               NATIVE_ARCH_32_BIT = arm
+               NATIVE_ARCH_64_BIT = arm64
+               NATIVE_ARCH_ACTUAL = arm64
+               NO_COMMON = YES
+               OBJECT_FILE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects
+               OBJECT_FILE_DIR_normal = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal
+               OBJROOT = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex
+               ONLY_ACTIVE_ARCH = NO
+               OS = MACOS
+               OSAC = /usr/bin/osacompile
+               OTHER_LDFLAGS =  -ObjC -l"swiftCoreGraphics" -framework "AVFoundation" -framework "AVKit" -framework "Avcodec" -framework "Avfilter" -framework "Avformat" -framework "Avutil" -framework "DKImagePickerController" -framework "DKPhotoGallery" -framework "Foundation" -framework "ImageIO" -framework "Mbedcrypto" -framework "Mbedtls" -framework "Mbedx509" -framework "Mpv" -framework "OrderedSet" -framework "Photos" -framework "SDWebImage" -framework "SwiftyGif" -framework "Swresample" -framework "Swscale" -framework "UIKit" -framework "app_links" -framework "audio_service" -framework "audio_session" -framework "bonsoir_darwin" -framework "connectivity_plus" -framework "device_info_plus" -framework "file_picker" -framework "file_selector_ios" -framework "fk_user_agent" -framework "flutter_broadcasts" -framework "flutter_discord_rpc" -framework "flutter_inappwebview_ios" -framework "flutter_native_splash" -framework "flutter_secure_storage" -framework "flutter_sharing_intent" -framework "flutter_timezone" -framework "home_widget" -framework "image_picker_ios" -framework "integration_test" -framework "media_kit_libs_ios_audio" -framework "metadata_god" -framework "open_filex" -framework "package_info_plus" -framework "path_provider_foundation" -framework "permission_handler_apple" -framework "shared_preferences_foundation" -framework "sqflite_darwin" -framework "sqlite3" -framework "sqlite3_flutter_libs" -framework "url_launcher_ios"
+               OTHER_MODULE_VERIFIER_FLAGS =  "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/DKImagePickerController" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/DKPhotoGallery" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/Flutter" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/OrderedSet" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/SDWebImage" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/SwiftyGif" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/app_links" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/audio_service" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/audio_session" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/bonsoir_darwin" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/connectivity_plus" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/device_info_plus" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/file_picker" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/file_selector_ios" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/fk_user_agent" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_broadcasts" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_discord_rpc" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_inappwebview_ios" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_native_splash" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_secure_storage" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_sharing_intent" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/flutter_timezone" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/home_widget" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/image_picker_ios" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/integration_test" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/media_kit_libs_ios_audio" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/metadata_god" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/open_filex" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/package_info_plus" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/path_provider_foundation" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/permission_handler_apple" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/shared_preferences_foundation" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/sqflite_darwin" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/sqlite3" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/sqlite3_flutter_libs" "-F/Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/url_launcher_ios"
+               OTHER_SWIFT_FLAGS =  -D COCOAPODS
+               PACKAGE_CONFIG = .dart_tool/package_config.json
+               PACKAGE_TYPE = com.apple.package-type.wrapper.application
+               PASCAL_STRINGS = YES
+               PATH = /Applications/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Users/aswinajay/Library/CloudStorage/GoogleDrive-aswinajay949@gmail.com/My Drive/desktop/Development/trumine bridal house/node-v20.20.2-darwin-arm64/bin:/Users/aswinajay/development/flutter/bin:/Users/aswinajay/.cargo/bin:/Users/aswinajay/homebrew/bin:/Users/aswinajay/.pub-cache/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Library/Apple/usr/bin
+               PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES = /usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms
+               PBDEVELOPMENTPLIST_PATH = Runner.app/pbdevelopment.plist
+               PER_ARCH_MODULE_FILE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal/undefined_arch
+               PER_ARCH_OBJECT_FILE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal/undefined_arch
+               PER_VARIANT_OBJECT_FILE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal
+               PKGINFO_FILE_PATH = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/PkgInfo
+               PKGINFO_PATH = Runner.app/PkgInfo
+               PLATFORM_DEVELOPER_APPLICATIONS_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications
+               PLATFORM_DEVELOPER_BIN_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin
+               PLATFORM_DEVELOPER_LIBRARY_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library
+               PLATFORM_DEVELOPER_SDK_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
+               PLATFORM_DEVELOPER_TOOLS_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools
+               PLATFORM_DEVELOPER_USR_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr
+               PLATFORM_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform
+               PLATFORM_DISPLAY_NAME = iOS
+               PLATFORM_FAMILY_NAME = iOS
+               PLATFORM_NAME = iphoneos
+               PLATFORM_PREFERRED_ARCH = arm64
+               PLATFORM_PRODUCT_BUILD_VERSION = 23E252
+               PLATFORM_REQUIRES_SWIFT_AUTOLINK_EXTRACT = NO
+               PLATFORM_REQUIRES_SWIFT_MODULEWRAP = NO
+               PLATFORM_USES_DSYMS = YES
+               PLIST_FILE_OUTPUT_FORMAT = binary
+               PLUGINS_FOLDER_PATH = Runner.app/PlugIns
+               PODS_BUILD_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios
+               PODS_CONFIGURATION_BUILD_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos
+               PODS_PODFILE_DIR_PATH = /Users/aswinajay/Documents/projects/apps/spotube/ios/.
+               PODS_ROOT = /Users/aswinajay/Documents/projects/apps/spotube/ios/Pods
+               PODS_XCFRAMEWORKS_BUILD_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/XCFrameworkIntermediates
+               PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = YES
+               PRECOMP_DESTINATION_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/PrefixHeaders
+               PRIVATE_HEADERS_FOLDER_PATH = Runner.app/PrivateHeaders
+               PROCESSED_INFOPLIST_PATH = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal/undefined_arch/Processed-Info.plist
+               PRODUCT_BUNDLE_IDENTIFIER = oss.aswinajay.spotube.stable
+               PRODUCT_BUNDLE_PACKAGE_TYPE = APPL
+               PRODUCT_MODULE_NAME = Runner
+               PRODUCT_NAME = Runner
+               PRODUCT_SETTINGS_PATH = /Users/aswinajay/Documents/projects/apps/spotube/ios/Runner/Info.plist
+               PRODUCT_TYPE = com.apple.product-type.application
+               PROFILING_CODE = NO
+               PROJECT = Runner
+               PROJECT_DERIVED_FILE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/DerivedSources
+               PROJECT_DIR = /Users/aswinajay/Documents/projects/apps/spotube/ios
+               PROJECT_FILE_PATH = /Users/aswinajay/Documents/projects/apps/spotube/ios/Runner.xcodeproj
+               PROJECT_GUID = 18c1723432283e0cc55f10a6dcfd9e02
+               PROJECT_NAME = Runner
+               PROJECT_TEMP_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build
+               PROJECT_TEMP_ROOT = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex
+               PROVISIONING_PROFILE_REQUIRED = YES
+               PROVISIONING_PROFILE_REQUIRED_YES_YES = YES
+               PROVISIONING_PROFILE_SUPPORTED = YES
+               PUBLIC_HEADERS_FOLDER_PATH = Runner.app/Headers
+               RECOMMENDED_IPHONEOS_DEPLOYMENT_TARGET = 15.0
+               RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS = YES
+               REMOVE_CVS_FROM_RESOURCES = YES
+               REMOVE_GIT_FROM_RESOURCES = YES
+               REMOVE_HEADERS_FROM_EMBEDDED_BUNDLES = YES
+               REMOVE_HG_FROM_RESOURCES = YES
+               REMOVE_STATIC_EXECUTABLES_FROM_EMBEDDED_BUNDLES = YES
+               REMOVE_SVN_FROM_RESOURCES = YES
+               RESCHEDULE_INDEPENDENT_HEADERS_PHASES = YES
+               REZ_COLLECTOR_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/ResourceManagerResources
+               REZ_OBJECTS_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/ResourceManagerResources/Objects
+               REZ_SEARCH_PATHS = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos 
+               RPATH_ORIGIN = @loader_path
+               RUNTIME_EXCEPTION_ALLOW_DYLD_ENVIRONMENT_VARIABLES = NO
+               RUNTIME_EXCEPTION_ALLOW_JIT = NO
+               RUNTIME_EXCEPTION_ALLOW_UNSIGNED_EXECUTABLE_MEMORY = NO
+               RUNTIME_EXCEPTION_DEBUGGING_TOOL = NO
+               RUNTIME_EXCEPTION_DISABLE_EXECUTABLE_PAGE_PROTECTION = NO
+               RUNTIME_EXCEPTION_DISABLE_LIBRARY_VALIDATION = NO
+               SCANNING_PCM_KEEP_CACHE_DIRECTORY = YES
+               SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = NO
+               SCRIPTS_FOLDER_PATH = Runner.app/Scripts
+               SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk
+               SDK_DIR = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk
+               SDK_DIR_iphoneos = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk
+               SDK_DIR_iphoneos26_4 = /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk
+               SDK_NAME = iphoneos26.4
+               SDK_NAMES = iphoneos26.4
+               SDK_PRODUCT_BUILD_VERSION = 23E252
+               SDK_STAT_CACHE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData
+               SDK_STAT_CACHE_ENABLE = YES
+               SDK_STAT_CACHE_PATH = /Users/aswinajay/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphoneos26.4-23E252-68a138bb55de9ba35ce6c8c40d12849e.sdkstatcache
+               SDK_VERSION = 26.4
+               SDK_VERSION_ACTUAL = 260400
+               SDK_VERSION_MAJOR = 260000
+               SDK_VERSION_MINOR = 260400
+               SED = /usr/bin/sed
+               SEPARATE_STRIP = NO
+               SEPARATE_SYMBOL_EDIT = NO
+               SET_DIR_MODE_OWNER_GROUP = YES
+               SET_FILE_MODE_OWNER_GROUP = NO
+               SHALLOW_BUNDLE = YES
+               SHALLOW_BUNDLE_TRIPLE = ios
+               SHALLOW_BUNDLE_ios_macabi = NO
+               SHALLOW_BUNDLE_macos = NO
+               SHARED_DERIVED_FILE_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos/DerivedSources
+               SHARED_FRAMEWORKS_FOLDER_PATH = Runner.app/SharedFrameworks
+               SHARED_PRECOMPS_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/PrecompiledHeaders
+               SHARED_SUPPORT_FOLDER_PATH = Runner.app/SharedSupport
+               SKIP_INSTALL = NO
+               SKIP_MERGEABLE_LIBRARY_BUNDLE_HOOK = NO
+               SOURCE_ROOT = /Users/aswinajay/Documents/projects/apps/spotube/ios
+               SRCROOT = /Users/aswinajay/Documents/projects/apps/spotube/ios
+               STRINGSDATA_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal/undefined_arch
+               STRINGSDATA_ROOT = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build
+               STRINGS_FILE_INFOPLIST_RENAME = YES
+               STRINGS_FILE_OUTPUT_ENCODING = binary
+               STRING_CATALOG_GENERATE_SYMBOLS = YES
+               STRIP_BITCODE_FROM_COPIED_FILES = YES
+               STRIP_INSTALLED_PRODUCT = YES
+               STRIP_STYLE = all
+               STRIP_SWIFT_SYMBOLS = YES
+               SUPPORTED_DEVICE_FAMILIES = 1,2
+               SUPPORTED_PLATFORMS = iphoneos
+               SUPPORTS_MACCATALYST = NO
+               SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES
+               SUPPORTS_ON_DEMAND_RESOURCES = YES
+               SUPPORTS_TEXT_BASED_API = NO
+               SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = YES
+               SUPPRESS_WARNINGS = NO
+               SWIFT_COMPILATION_MODE = wholemodule
+               SWIFT_EMIT_CONST_VALUE_PROTOCOLS = AnyResolverProviding AppEntity AppEnum AppExtension AppIntent AppIntentsPackage AppShortcutProviding AppShortcutsProvider AppUnionValue AppUnionValueCasesProviding DynamicOptionsProvider EntityQuery ExtensionPointDefining IntentValueQuery Resolver TransientEntity _AssistantIntentsProvider _GenerativeFunctionExtractable _IntentValueRepresentable
+               SWIFT_EMIT_LOC_STRINGS = NO
+               SWIFT_ENABLE_EXPLICIT_MODULES = YES
+               SWIFT_OBJC_BRIDGING_HEADER = Runner/Runner-Bridging-Header.h
+               SWIFT_OPTIMIZATION_LEVEL = -O
+               SWIFT_PLATFORM_TARGET_PREFIX = ios
+               SWIFT_RESPONSE_FILE_PATH_normal_arm64 = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/Objects-normal/arm64/Runner.SwiftFileList
+               SWIFT_VERSION = 5.0
+               SYMROOT = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Products
+               SYSTEM_ADMIN_APPS_DIR = /Applications/Utilities
+               SYSTEM_APPS_DIR = /Applications
+               SYSTEM_CORE_SERVICES_DIR = /System/Library/CoreServices
+               SYSTEM_DEMOS_DIR = /Applications/Extras
+               SYSTEM_DEVELOPER_APPS_DIR = /Applications/Xcode.app/Contents/Developer/Applications
+               SYSTEM_DEVELOPER_BIN_DIR = /Applications/Xcode.app/Contents/Developer/usr/bin
+               SYSTEM_DEVELOPER_DEMOS_DIR = /Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples
+               SYSTEM_DEVELOPER_DIR = /Applications/Xcode.app/Contents/Developer
+               SYSTEM_DEVELOPER_DOC_DIR = /Applications/Xcode.app/Contents/Developer/ADC Reference Library
+               SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR = /Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools
+               SYSTEM_DEVELOPER_JAVA_TOOLS_DIR = /Applications/Xcode.app/Contents/Developer/Applications/Java Tools
+               SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR = /Applications/Xcode.app/Contents/Developer/Applications/Performance Tools
+               SYSTEM_DEVELOPER_RELEASENOTES_DIR = /Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes
+               SYSTEM_DEVELOPER_TOOLS = /Applications/Xcode.app/Contents/Developer/Tools
+               SYSTEM_DEVELOPER_TOOLS_DOC_DIR = /Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools
+               SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR = /Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools
+               SYSTEM_DEVELOPER_USR_DIR = /Applications/Xcode.app/Contents/Developer/usr
+               SYSTEM_DEVELOPER_UTILITIES_DIR = /Applications/Xcode.app/Contents/Developer/Applications/Utilities
+               SYSTEM_DEXT_INSTALL_PATH = /System/Library/DriverExtensions
+               SYSTEM_DOCUMENTATION_DIR = /Library/Documentation
+               SYSTEM_EXTENSIONS_FOLDER_PATH = Runner.app/SystemExtensions
+               SYSTEM_EXTENSIONS_FOLDER_PATH_SHALLOW_BUNDLE_NO = Runner.app/Library/SystemExtensions
+               SYSTEM_EXTENSIONS_FOLDER_PATH_SHALLOW_BUNDLE_YES = Runner.app/SystemExtensions
+               SYSTEM_KEXT_INSTALL_PATH = /System/Library/Extensions
+               SYSTEM_LIBRARY_DIR = /System/Library
+               TAPI_DEMANGLE = YES
+               TAPI_ENABLE_PROJECT_HEADERS = NO
+               TAPI_LANGUAGE = objective-c
+               TAPI_LANGUAGE_STANDARD = compiler-default
+               TAPI_USE_SRCROOT = YES
+               TAPI_VERIFY_MODE = Pedantic
+               TARGETED_DEVICE_FAMILY = 1,2
+               TARGETNAME = Runner
+               TARGET_BUILD_DIR = /Users/aswinajay/Documents/projects/apps/spotube/build/ios/Release-iphoneos
+               TARGET_NAME = Runner
+               TARGET_TEMP_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build
+               TEMP_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build
+               TEMP_FILES_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build
+               TEMP_FILE_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build
+               TEMP_ROOT = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex
+               TEMP_SANDBOX_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/TemporaryTaskSandboxes
+               TEST_FRAMEWORK_SEARCH_PATHS =  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.4.sdk/Developer/Library/Frameworks
+               TEST_LIBRARY_SEARCH_PATHS =  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib
+               TOOLCHAINS = com.apple.dt.toolchain.XcodeDefault
+               TOOLCHAIN_DIR = /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain
+               TRACK_WIDGET_CREATION = true
+               TREAT_MISSING_BASELINES_AS_TEST_FAILURES = NO
+               TREAT_MISSING_SCRIPT_PHASE_OUTPUTS_AS_ERRORS = NO
+               TREE_SHAKE_ICONS = false
+               TVOS_DEPLOYMENT_TARGET = 26.4
+               UID = 501
+               UNINSTALLED_PRODUCTS_DIR = /Users/aswinajay/Library/Developer/Xcode/DerivedData/Runner-bqutwjjszuhgeyamuylkoaqqgvzi/Build/Intermediates.noindex/UninstalledProducts
+               UNLOCALIZED_RESOURCES_FOLDER_PATH = Runner.app
+               UNLOCALIZED_RESOURCES_FOLDER_PATH_SHALLOW_BUNDLE_NO = Runner.app/Resources
+               UNLOCALIZED_RESOURCES_FOLDER_PATH_SHALLOW_BUNDLE_YES = Runner.app
+               UNSTRIPPED_PRODUCT = NO
+               USER = aswinajay
+               USER_APPS_DIR = /Users/aswinajay/Applications
+               USER_LIBRARY_DIR = /Users/aswinajay/Library
+               USE_DYNAMIC_NO_PIC = YES
+               USE_HEADERMAP = YES
+               USE_HEADER_SYMLINKS = NO
+               USE_RECURSIVE_SCRIPT_INPUTS_IN_SCRIPT_PHASES = YES
+               VALIDATE_DEVELOPMENT_ASSET_PATHS = YES_ERROR
+               VALIDATE_PRODUCT = YES
+               VALID_ARCHS = arm64 arm64e armv7 armv7s
+               VERBOSE_PBXCP = NO
+               VERSIONING_SYSTEM = apple-generic
+               VERSIONPLIST_PATH = Runner.app/version.plist
+               VERSION_INFO_BUILDER = aswinajay
+               VERSION_INFO_FILE = Runner_vers.c
+               VERSION_INFO_STRING = "@(#)PROGRAM:Runner  PROJECT:Runner-44"
+               WATCHOS_DEPLOYMENT_TARGET = 26.4
+               WORKSPACE_DIR = /Users/aswinajay/Documents/projects/apps/spotube/ios/Runner.xcodeproj
+               WRAPPER_EXTENSION = app
+               WRAPPER_NAME = Runner.app
+               WRAPPER_SUFFIX = .app
+               WRAP_ASSET_PACKS_IN_SEPARATE_DIRECTORIES = NO
+               XCODE_APP_SUPPORT_DIR = /Applications/Xcode.app/Contents/Developer/Library/Xcode
+               XCODE_PRODUCT_BUILD_VERSION = 17E202
+               XCODE_VERSION_ACTUAL = 2641
+               XCODE_VERSION_MAJOR = 2600
+               XCODE_VERSION_MINOR = 2640
+               XPCSERVICES_FOLDER_PATH = Runner.app/XPCServices
+               XROS_DEPLOYMENT_TARGET = 26.4
+               YACC = yacc
+               _DISCOVER_COMMAND_LINE_LINKER_INPUTS = YES
+               _DISCOVER_COMMAND_LINE_LINKER_INPUTS_INCLUDE_WL = YES
+               _LD_MULTIARCH = YES
+               _WRAPPER_CONTENTS_DIR_SHALLOW_BUNDLE_NO = /Contents
+               _WRAPPER_PARENT_PATH_SHALLOW_BUNDLE_NO = /..
+               _WRAPPER_RESOURCES_DIR_SHALLOW_BUNDLE_NO = /Resources
+               __DIAGNOSE_DEPRECATED_ARCHS = YES
+               __IS_NOT_MACOS = YES
+               __IS_NOT_MACOS_macosx = NO
+               __IS_NOT_SIMULATOR = YES
+               __IS_NOT_SIMULATOR_simulator = NO
+               __ORIGINAL_SDK_DEFINED_LLVM_TARGET_TRIPLE_SYS = ios
+               arch = undefined_arch
+               variant = normal
+[   +8 ms] executing: /usr/bin/plutil -convert xml1 -o - /Users/aswinajay/Documents/projects/apps/spotube/ios/Runner/Info.plist
+[   +7 ms] Exit code 0 from: /usr/bin/plutil -convert xml1 -o - /Users/aswinajay/Documents/projects/apps/spotube/ios/Runner/Info.plist
+[        ] <?xml version="1.0" encoding="UTF-8"?>
+           <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+           <plist version="1.0">
+           <dict>
+           	<key>CADisableMinimumFrameDurationOnPhone</key>
+           	<true/>
+           	<key>CFBundleDevelopmentRegion</key>
+           	<string>$(DEVELOPMENT_LANGUAGE)</string>
+           	<key>CFBundleDisplayName</key>
+           	<string>Spotube</string>
+           	<key>CFBundleExecutable</key>
+           	<string>$(EXECUTABLE_NAME)</string>
+           	<key>CFBundleIdentifier</key>
+           	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+           	<key>CFBundleInfoDictionaryVersion</key>
+           	<string>6.0</string>
+           	<key>CFBundleName</key>
+           	<string>spotube</string>
+           	<key>CFBundlePackageType</key>
+           	<string>APPL</string>
+           	<key>CFBundleShortVersionString</key>
+           	<string>$(FLUTTER_BUILD_NAME)</string>
+           	<key>CFBundleSignature</key>
+           	<string>????</string>
+           	<key>CFBundleVersion</key>
+           	<string>$(FLUTTER_BUILD_NUMBER)</string>
+           	<key>LSRequiresIPhoneOS</key>
+           	<true/>
+           	<key>LSSupportsOpeningDocumentsInPlace</key>
+           	<true/>
+           	<key>NSAppTransportSecurity</key>
+           	<dict>
+           		<key>NSAllowsArbitraryLoads</key>
+           		<true/>
+           		<key>NSAllowsArbitraryLoadsForMedia</key>
+           		<true/>
+           	</dict>
+           	<key>NSBonjourServices</key>
+           	<array>
+           		<string>_spotube._tcp</string>
+           	</array>
+           	<key>NSCameraUsageDescription</key>
+           	<string>This app require access to the device camera</string>
+           	<key>NSLocalNetworkUsageDescription</key>
+           	<string>To allow other devices on the network control playback of Spotube securely.</string>
+           	<key>NSMicrophoneUsageDescription</key>
+           	<string>This app does not require access to the device microphone</string>
+           	<key>NSPhotoLibraryUsageDescription</key>
+           	<string>This app require access to the photo library</string>
+           	<key>UIApplicationSupportsIndirectInputEvents</key>
+           	<true/>
+           	<key>UIBackgroundModes</key>
+           	<array>
+           		<string>audio</string>
+           	</array>
+           	<key>UIFileSharingEnabled</key>
+           	<true/>
+           	<key>UILaunchStoryboardName</key>
+           	<string>LaunchScreen</string>
+           	<key>UIMainStoryboardFile</key>
+           	<string>Main</string>
+           	<key>UIStatusBarHidden</key>
+           	<false/>
+           	<key>UISupportedInterfaceOrientations</key>
+           	<array>
+           		<string>UIInterfaceOrientationPortrait</string>
+           		<string>UIInterfaceOrientationLandscapeLeft</string>
+           		<string>UIInterfaceOrientationLandscapeRight</string>
+           	</array>
+           	<key>UISupportedInterfaceOrientations~ipad</key>
+           	<array>
+           		<string>UIInterfaceOrientationPortrait</string>
+           		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+           		<string>UIInterfaceOrientationLandscapeLeft</string>
+           		<string>UIInterfaceOrientationLandscapeRight</string>
+           	</array>
+           	<key>UISupportsDocumentBrowser</key>
+           	<true/>
+           	<key>UIViewControllerBasedStatusBarAppearance</key>
+           	<true/>
+           </dict>
+           </plist>
+[  +35 ms] Building oss.aswinajay.spotube.stable for device (ios-release)...
+[  +28 ms] "flutter ios" took 2,505ms.
+[   +3 ms] executing: sw_vers -productName
+[  +14 ms] Exit code 0 from: sw_vers -productName
+[        ] macOS
+[        ] executing: sw_vers -productVersion
+[  +12 ms] Exit code 0 from: sw_vers -productVersion
+[        ] 26.5
+[        ] executing: sw_vers -buildVersion
+[  +17 ms] Exit code 0 from: sw_vers -buildVersion
+[        ] 25F5042g
+[        ] executing: uname -m
+[   +7 ms] Exit code 0 from: uname -m
+[        ] arm64
+[  +27 ms] Your Xcode project requires migration. See https://docs.flutter.dev/ios-project-migration for details.
+[   +1 ms] 
+           #0      throwToolExit (package:flutter_tools/src/base/common.dart:34:3)
+           #1      RemoveFrameworkLinkAndEmbeddingMigration.migrateLine (package:flutter_tools/src/ios/migrations/remove_framework_link_and_embedding_migration.dart:98:7)
+           #2      ProjectMigrator.processFileLines (package:flutter_tools/src/base/project_migrator.dart:46:38)
+           #3      RemoveFrameworkLinkAndEmbeddingMigration.migrate (package:flutter_tools/src/ios/migrations/remove_framework_link_and_embedding_migration.dart:30:5)
+           #4      ProjectMigration.run (package:flutter_tools/src/base/project_migrator.dart:86:22)
+           #5      buildXcodeProject (package:flutter_tools/src/ios/mac.dart:183:19)
+           #6      _BuildIOSSubCommand.runCommand (package:flutter_tools/src/commands/build_ios.dart:758:43)
+           <asynchronous suspension>
+           #7      FlutterCommand.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command.dart:1581:27)
+           <asynchronous suspension>
+           #8      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #9      CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+           <asynchronous suspension>
+           #10     FlutterCommandRunner.runCommand.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:503:9)
+           <asynchronous suspension>
+           #11     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #12     FlutterCommandRunner.runCommand (package:flutter_tools/src/runner/flutter_command_runner.dart:438:5)
+           <asynchronous suspension>
+           #13     run.<anonymous closure>.<anonymous closure> (package:flutter_tools/runner.dart:98:11)
+           <asynchronous suspension>
+           #14     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #15     main (package:flutter_tools/executable.dart:101:3)
+           <asynchronous suspension>
+
+
+[        ] Running 2 shutdown hooks
+[   +1 ms] Shutdown hooks complete
+[ +117 ms] exiting with code 1

@@ -78,6 +78,7 @@ struct HomePlayerWidget: Widget {
     }
 }
 
+@available(iOS 17.0, *)
 #Preview(as: .systemSmall) {
     HomePlayerWidget()
 } timeline: {
