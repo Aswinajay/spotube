@@ -52,4 +52,17 @@ post_install do |installer|
       config.build_settings['HEADER_SEARCH_PATHS'] = ['$(inherited)', '"$(PODS_ROOT)/../Flutter/Flutter.framework/Headers"']
     end
   end
+
+  # Generic fix for all pods with double-quoted umbrella headers
+  support_files = "#{installer.sandbox.root}/Target Support Files"
+  Dir.glob("#{support_files}/**/*-umbrella.h").each do |umbrella|
+    content = File.read(umbrella)
+    if content.match?(/".*\.h"/)
+      # The directory name is usually the pod name
+      pod_name = File.basename(File.dirname(umbrella))
+      fixed = content.gsub(/"([^"]+\.h)"/) { "<#{pod_name}/#{$1}>" }
+      File.write(umbrella, fixed)
+      puts "✅ Fixed umbrella header: #{pod_name}"
+    end
+  end
 end
