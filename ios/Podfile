@@ -46,6 +46,10 @@ post_install do |installer|
         'AUDIO_SESSION_MICROPHONE=0'
       ]
       config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
+      config.build_settings['CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER'] = 'NO'
+      # Ensure plugins can find Flutter headers
+      config.build_settings['FRAMEWORK_SEARCH_PATHS'] ||= ['$(inherited)']
+      config.build_settings['FRAMEWORK_SEARCH_PATHS'] << '"$(PODS_ROOT)/../Flutter"'
     end
   end
 end
