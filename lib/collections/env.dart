@@ -8,7 +8,7 @@ enum ReleaseChannel {
   stable,
 }
 
-@Envied(obfuscate: true, requireEnvFile: false, path: ".env")
+@Envied(obfuscate: true, requireEnvFile: true, path: ".env")
 abstract class Env {
   @EnviedField(varName: 'LASTFM_API_KEY')
   static final String lastFmApiKey = _Env.lastFmApiKey;
